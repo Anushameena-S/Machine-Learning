@@ -1,1 +1,1 @@
-Install Anoaconda Software and run the machine learning programs in Jupyter Notebook.
+Install Anaconda Software and run the machine learning programs in Jupyter Notebook.
